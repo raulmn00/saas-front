@@ -1,7 +1,7 @@
 import JwtLoginView from '../../../../sections/auth/jwt/jwt-login-view';
 
 export const metadata = {
-  title: 'Unyplay: Entrar',
+  title: 'SAAS: Entrar',
 };
 
 export default function LoginPage() {
